@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Groceries1",
+    "amount": 50,
+    "date": "2024-06-01",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "title": "Internet Bill",
+    "amount": 30,
+    "date": "2024-06-03",
+    "category": 2
+  },
+  {
+    "id": 3,
+    "title": "Coffee",
+    "amount": 5,
+    "date": "2024-06-04",
+    "category": 4
+  },
+  {
+    "id": 4,
+    "title": "Amazon Prime",
+    "amount": "999",
+    "date": "2025-07-06",
+    "category": 7
+  },
+  {
+    "id": 5,
+    "title": "choco",
+    "amount": "100",
+    "date": "2025-07-06",
+    "category": 5
+  },
+  {
+    "id": 6,
+    "title": "Fruits",
+    "amount": "50",
+    "date": "2025-07-06",
+    "category": 2
+  },
+  {
+    "id": 7,
+    "title": "vegetables",
+    "amount": "500",
+    "date": "2025-07-06",
+    "category": 1
+  },
+  {
+    "id": 8,
+    "title": "haldirams",
+    "amount": "15",
+    "date": "2025-07-06",
+    "category": 1
+  },
+  {
+    "id": 9,
+    "title": "Coconut water",
+    "amount": "100",
+    "date": "2025-07-06",
+    "category": 2
+  }
+]
